@@ -2,7 +2,7 @@
 
 ### Challenge Aim
 
-Usinge public data for NYC Citi Bikes available at [Citi Bike Data](https://www.citibikenyc.com/system-data), visualizations are created in Tableau and gathered into stories and a dashboard. Focus of the data analysis will be spring and summer months only for 2019, 2020 and 2021. Data is explored for pre-pandemic trends as compared to trends in 2020 and 2021.
+Using public data for NYC Citi Bikes available at [Citi Bike Data](https://www.citibikenyc.com/system-data), visualizations are created in Tableau and gathered into stories and a dashboard. Focus of the data analysis will be spring and summer months only for 2019, 2020 and 2021. Data is explored for pre-pandemic trends as compared to trends in 2020 and 2021.
 
 Note: primary assignment will be saved to Tableau Public. Instructions on assignment below.
 
